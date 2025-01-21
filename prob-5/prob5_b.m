@@ -121,7 +121,7 @@ u(freeNod)=um;
 displacements = [u(1:2:end),u(2:2:end)];
 
 
-%fprintf('(b) Maximum of the horizontal displacements of the bottom boundary nodes: %.4e\n',...
+%fprintf('(b) Maximum of the vertical displacements of the bottom boundary nodes: %.4e\n',...
 %    max(displacements(indNodBottom,1)))
 %
 % Error: 

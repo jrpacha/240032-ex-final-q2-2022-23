@@ -107,7 +107,7 @@ end
 
 % Answer to part (c)
 %
-% Fancy output with fprintf: in exams DO NOT waste tour time with this!
+% Fancy output with fprintf: in exams DO NOT waste your time with this!
 %
 fprintf('(c) Number of elements at temp. at barycenter > %.2f%cC: %d\n',...
     TcBarycenter, char(176), length(find(tempBarycenter > TcBarycenter)))
